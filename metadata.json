@@ -1,0 +1,6 @@
+{
+  "name": "ShopPay AI",
+  "description": "Turn every digital payment into business intelligence for shop owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

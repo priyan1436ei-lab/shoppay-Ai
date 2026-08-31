@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Store Roof / Canopy -->
+    <path
+        android:pathData="M30,36 L78,36 L74,48 L34,48 Z"
+        android:fillColor="#6366F1" />
+    <!-- Shop Front & Rupee Badge -->
+    <path
+        android:pathData="M34,48 L34,74 C34,76.2 35.8,78 38,78 L70,78 C72.2,78 74,76.2 74,74 L74,48 Z"
+        android:fillColor="#4F46E5" />
+    <!-- Glowing AI Sparkle Star -->
+    <path
+        android:pathData="M75,28 L77,33 L82,35 L77,37 L75,42 L73,37 L68,35 L73,33 Z"
+        android:fillColor="#38BDF8" />
+    <!-- Rupee / Payment Currency Symbol in Store Center -->
+    <path
+        android:pathData="M48,54 L60,54 M48,58 L57,58 M48,54 L48,68 M48,60 C53,60 55.5,58 55.5,56 C55.5,54 53,54 48,54 M52,60 L60,68"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
